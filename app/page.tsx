@@ -1,4 +1,4 @@
-import { Heart, Paw, Users, MapPin } from 'lucide-react'
+import { Heart, PawPrint as Paw, Users, MapPin } from 'lucide-react'
 import { Button } from '@/components/ui/button'
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card'
 
